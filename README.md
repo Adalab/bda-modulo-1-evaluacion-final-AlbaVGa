@@ -13,4 +13,4 @@ Aplicar conocimientos adquiridos en el modudlo para la resolución de los ejerci
   - llamar a la funcion para comprobar su funcionamiento.
   - imprimir resultados
 # SENSACIONES PRUEBA
-Me ha resultado complicado y en ocasiones frustante el ir desgranando los pasos, algunos ejercicios se me han resisistido, y he hecho uso del material proporcionado por el profeso. Espero con el tiempo ir mejorando.
+Me ha resultado complicado y en ocasiones frustante el ir desgranando los pasos, algunos ejercicios se me han resisistido, y he hecho uso del material proporcionado por el profesor. Espero ir mejorando con el tiempo. 
